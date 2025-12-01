@@ -1,0 +1,5 @@
+pynput
+Pillow
+pytesseract
+google-generativeai
+tk
